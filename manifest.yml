@@ -1,0 +1,7 @@
+---
+name: iDEP & ShinyGO
+category: Interactive Apps
+subcategory: Servers
+role: batch_connect
+description: |
+  This app will launch a iDEP & ShinyGO server on one or more nodes.
